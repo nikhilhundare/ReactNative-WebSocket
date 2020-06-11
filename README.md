@@ -14,10 +14,10 @@ You will also see any lint errors in the console.
 
 Install the below packages
 
-### `
+
 1. react-redux
 2. redux-saga
 3. react-bulma-components
 4. ag-grid-react
 5. ag-grid-community
-`
+
